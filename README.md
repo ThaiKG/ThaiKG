@@ -1,4 +1,5 @@
 ## Hi there 👋
+I should be updating this soon. If not, I have not done my job properly and need to lock in...
 
 <!--
 **ThaiKG/ThaiKG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
